@@ -7,6 +7,6 @@ let city = "Karachi";
 let country = "Pakistan";
 console.log(name, age, course, city, country)
 
-let language = "HTML";
-language = "JavaScript";
-console.log(language);
+let Fruit = "Mango";
+Fruit = "pineapple";
+console.log(Fruit);
