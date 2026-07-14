@@ -13,3 +13,11 @@ console.log(legal);
 let illegal = "1stname, first name, user-name";
 console.log(illegal);
 
+let a = 20;
+let b = 25;
+
+console.log(a/b);
+console.log(a*b);
+console.log(a+b);
+console.log(a-b);
+console.log(a%b);
